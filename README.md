@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thanapat-Mah
-- 👀 I’m interested in Python, OOP, ML
+- 👀 I’m interested in Game Development, Python, OOP, ML
 - 🌱 I’m currently learning Computer Engineer @ KMUTT
 - 📫 How to reach me https://www.facebook.com/thanapat.mahiskhamin
 
